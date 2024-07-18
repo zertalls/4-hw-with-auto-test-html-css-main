@@ -16,7 +16,7 @@ body {
     font-family: "Inter", sans-serif; 
     color: #303030;
     /* 📍 Минимальная ширина */ 
-    min-height: 375px;
+    min-width: 375px;
 }
 
 header {
